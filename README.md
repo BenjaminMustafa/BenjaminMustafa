@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning SQL/Spring Boot!
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS!
-- 📫 How to reach me: bennylavce@gmail.com![![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
+- 📫 How to reach me: bennylavce@gmail.com!
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
 - [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
 - ⚡ Fun fact: ...I can make chalkArt!
 - 🐦 [twitter][twitter] **|**, 📷 [instagram][instagram] **|**, 👔 [linkedin][linkedin]
