@@ -15,7 +15,7 @@
 [website]: https://bradgarropy.com
 [twitter]: https://twitter.com/ByKeGer
 [instagram]: https://www.instagram.com/bendzamin_benny/
-[linkedin]: https://linkedin.com/in/bradgarropy
+[linkedin]: https://www.linkedin.com/in/benjamin-mustafa-41230a150/
 
 
 
