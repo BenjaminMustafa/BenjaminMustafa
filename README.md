@@ -1,6 +1,6 @@
 ### Hi there, I'm Benny 👋
 
-## I'm a Developer,  ChalkArtist!!!
+## 💻 I'm a Developer, 🖌️ ChalkArtist!!!
 
 - 🔭 I’m currently working on Bootcamp / Full Stack Development!
 - 🌱 I’m currently learning SQL/Spring Boot!
