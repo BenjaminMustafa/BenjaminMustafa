@@ -5,26 +5,18 @@
 - 🔭 I’m currently working on Bootcamp / Full Stack Development!
 - 🌱 I’m currently learning SQL/Spring Boot!
 - 👯 I’m looking to collaborate on creating content!
-- 🤔 I’m looking for help with React!
 - 💬 Ask me about HTML/CSS/JS!
 - 📫 How to reach me: bennylavce@gmail.com!
-- 😄 Pronouns: he/him!
 - ⚡ Fun fact: ...I can make chalkArt!
-
--->
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-👨🏼‍💻 building TraviaAPI
-🧠 learning Backend
-💜 loving CSS/HTML/JS 
-
+- 🐦 [twitter][twitter] **|**, 📷 [instagram][instagram] **|**, 👔 [linkedin][linkedin]
 
 [website]: https://bradgarropy.com
 [twitter]: https://twitter.com/ByKeGer
 [instagram]: https://www.instagram.com/bendzamin_benny/
 [linkedin]: https://linkedin.com/in/bradgarropy
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
