@@ -2,7 +2,7 @@
 
 ## 💻 I'm a Web Developer, 🖌️ ChalkArtist!!!
 
-- 🔭 I’m currently working on Bootcamp / Full Stack Development!
+- 🔭 I’m currently studying at https://codeacademy.mk/ Bootcamp / Full Stack Development!
 - 🌱 I’m currently learning SQL/Spring Boot!
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS!
