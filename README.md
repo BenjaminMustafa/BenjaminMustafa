@@ -7,7 +7,7 @@
 - 💻 Web Developer!
 - 🖌️ Fun fact: ...I can make chalkArt!
 - 🔭 I’m currently studying at https://codeacademy.mk/ Bootcamp / Full Stack Development!
-- 🌱 I’m currently learning SQL/Spring Boot!
+- 🌱 I’m currently learning React <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>!
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS/Bootstrap/SpringBoot/Java!
 
