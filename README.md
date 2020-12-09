@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://bestcoverpix.com/wp-content/uploads/2014/09/this-is-the-begining-fb-cover.png" alt="Hero image" style="max-width:100%;">
+ </div>
 <p align="center">
 Hi there, I'm Benny 👋🧿  I'm a Web Developer 💻,  ChalkArtist 🖌️!!!
 </p>
