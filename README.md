@@ -4,7 +4,7 @@
 <p align="center">
 Hi there, I'm Benny 👋🧿  I'm a Web Developer 💻,  ChalkArtist 🖌️!!!
 </p>
-<div style="margin-left: 200px;">
+
 - 🔭 I’m currently studying at https://codeacademy.mk/ Bootcamp / Full Stack Development!
 - 🌱 I’m currently learning SQL/Spring Boot!
 - 👯 I’m looking to collaborate on creating content!
@@ -12,11 +12,6 @@ Hi there, I'm Benny 👋🧿  I'm a Web Developer 💻,  ChalkArtist 🖌️!!!
 - ⚡ Fun fact: ...I can make chalkArt!
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
 - [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
-</div>
-[website]: http://127.0.0.1:5500/index.html
-[twitter]: https://twitter.com/ByKeGer
-[instagram]: https://www.instagram.com/bendzamin_benny/
-[linkedin]: https://www.linkedin.com/in/benjamin-mustafa-41230a150/
 <p align="center">
 Languages & Tools :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
