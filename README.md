@@ -1,5 +1,6 @@
-### Hi there, I'm Benny 👋🧿
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image" style="max-width:100%;">
 
+### Hi there, I'm Benny 👋🧿
 ## 💻 I'm a Web Developer, 🖌️ ChalkArtist!!!
 
 - 🔭 I’m currently studying at https://codeacademy.mk/ Bootcamp / Full Stack Development!
@@ -24,6 +25,6 @@ Languages & Tools :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springsuitetool/springsuitetool.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Springboot/Springboot.png"></code>
 
 <br />
