@@ -11,8 +11,8 @@
 - 💬 Ask me about HTML/CSS/JS/Bootstrap/SpringBoot/Java!
 - ⚡ Fun fact: ...I can make chalkArt!
 <p align="center">
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
+-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
+-[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
  </p>
 <p align="center">
 Languages & Tools :
