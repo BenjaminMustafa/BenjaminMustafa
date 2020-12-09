@@ -1,7 +1,7 @@
 
 
  
- <h1 align="center"><a id="user-content-stay-awesome" class="anchor" aria-hidden="true" href="#stay-awesome"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Hello I'm Benny 👋 a Web Developer💻 & ChalkArtist🖌️!!!</i></h1>
+ <h1 align="center"><a id="user-content-stay-awesome" class="anchor" aria-hidden="true" href="#stay-awesome"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Hello I'm Benny <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> a Web Developer💻 & ChalkArtist🖌️!!!</i></h1>
 
 
 
@@ -10,14 +10,8 @@
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS/Bootstrap/SpringBoot/Java!
 - ⚡ Fun fact: ...I can make chalkArt!
-<p align="center">
--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
--[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
- </p>
  
- <a href="mailto:bennylavce@gmail.com" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/50538dc7e13a096fcdedd3a0f3070f8639674bf5fa533467d86da295956f1b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f7274656425323062792d4e6f6465253230436c692e636f6d2532302545322538362539322d677261792e7376673f636f6c6f72413d36316332363526636f6c6f72423d344341463530267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" style="max-width:100%;">
-    </a>
+ 
  
  
 <p align="center">
