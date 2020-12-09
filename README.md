@@ -1,8 +1,9 @@
 <img src="https://bestcoverpix.com/wp-content/uploads/2014/09/this-is-the-begining-fb-cover.png" alt="Hero image" style="max-width:100%;">
-
+<p align="center">
 ### Hi there, I'm Benny 👋🧿
 ## 💻 I'm a Web Developer, 🖌️ ChalkArtist!!!
-
+</p>
+<p align="center">
 - 🔭 I’m currently studying at https://codeacademy.mk/ Bootcamp / Full Stack Development!
 - 🌱 I’m currently learning SQL/Spring Boot!
 - 👯 I’m looking to collaborate on creating content!
@@ -12,7 +13,7 @@
 - [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
 - ⚡ Fun fact: ...I can make chalkArt!
 - 🐦 [twitter][twitter] **|**, 📷 [instagram][instagram] **|**, 👔 [linkedin][linkedin]🧿
-
+</p>
 [website]: http://127.0.0.1:5500/index.html
 [twitter]: https://twitter.com/ByKeGer
 [instagram]: https://www.instagram.com/bendzamin_benny/
