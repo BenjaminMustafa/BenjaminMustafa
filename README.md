@@ -10,20 +10,21 @@
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS/Bootstrap/SpringBoot/Java!
 - ⚡ Fun fact: ...I can make chalkArt!
-Languages:
+<div.
+-Languages:
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-Tools:
+-Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
- 
+ </div>
  <a href="https://github.com/BenjaminMustafa/" rel="nofollow"><img src="https://camo.githubusercontent.com/68fdf3a4247ab60fc0fffc0b5e51d27d84d25e80315042a0983c348c81f14c55/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266c6162656c436f6c6f723d353035303530266d6573736167653d7765627369746526636f6c6f723d253233303037364436267374796c653d666c6174266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d253233303037364436" alt="website" data-canonical-src="https://img.shields.io/static/v1?label=&amp;labelColor=505050&amp;message=website&amp;color=%230076D6&amp;style=flat&amp;logo=google-chrome&amp;logoColor=%230076D6" style="max-width:100%;"></a>
  
 <p align="center">
