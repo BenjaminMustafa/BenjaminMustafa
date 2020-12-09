@@ -10,8 +10,10 @@
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about HTML/CSS/JS/Bootstrap/SpringBoot/Java!
 - ⚡ Fun fact: ...I can make chalkArt!
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
-- [![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
+<p align="center">
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bennylavce@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-blueviolet)](https://)
+ </p>
 <p align="center">
 Languages & Tools :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -23,7 +25,7 @@ Languages & Tools :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SpringBoot/SpringBoot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Springsuite/Springsuite.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
  </p>
 <p align="center">
