@@ -1,4 +1,4 @@
-<img src=https://www.pexels.com/video/5968892/" alt="Hero image" style="max-width:100%;">
+<img src="https://www.pexels.com/photo/art-summer-sign-texture-4969885/" alt="Hero image" style="max-width:100%;">
 
 ### Hi there, I'm Benny 👋🧿
 ## 💻 I'm a Web Developer, 🖌️ ChalkArtist!!!
